@@ -1,0 +1,114 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "Dell XPS Core i5 11th Gen Intel EVO",
+      "price": 98999,
+      "stock": 3,
+      "image": "https://rukminim1.flixcart.com/image/416/416/khkvukw0/computer/6/8/s/dell-na-thin-and-light-laptop-original-imafxk9bfxfhrzgs.jpeg?q=70",
+      "description": "8 GB/512 GB SSD/Windows 10 Home) XPS 9310 Thin and Light Laptop  (13.3 inch, Silver, 1.2 kg, With MS Office"
+    },
+    {
+      "id": 2,
+      "name": "HP Pavilion Ryzen 5 Hexa Core 5600H",
+      "price": 67000,
+      "stock": 2,
+      "image": "https://rukminim1.flixcart.com/image/416/416/kbqu4cw0/computer/q/x/r/hp-original-imaftyzachgrav8f.jpeg?q=70",
+      "description": "8 GB/512 GB SSD/Windows 10/4 GB Graphics/NVIDIA GeForce GTX 1650/144 Hz) 15-ec2004AX Gaming Laptop  (15.6 inch, Shadow Black, 1.98 kg"
+    },
+    {
+      "id": 3,
+      "name": "acer Aspire 7 Ryzen 5 Hexa Core 5500U",
+      "price": 49999,
+      "stock": 5,
+      "image": "https://rukminim1.flixcart.com/image/416/416/klcmoi80/computer/q/e/3/na-gaming-laptop-acer-original-imagyhwfgwhkf3vv.jpeg?q=70",
+      "description": "8 GB/512 GB SSD/Windows 10 Home/4 GB Graphics/NVIDIA GeForce GTX 1650) A715-42G Gaming Laptop  (15.6 inch, Black, 2.15 kg"
+    },
+    {
+      "id": 4,
+      "name": "ASUS TUF Gaming F15 (2021) Core i5 11th Gen",
+      "price": 79999,
+      "stock": 0,
+      "image": "https://rukminim1.flixcart.com/image/416/416/kpodocw0/computer/9/s/7/na-gaming-laptop-asus-original-imag3v4hsgz62qgw.jpeg?q=70",
+      "description": "16 GB/512 GB SSD/Windows 10 Home/6 GB Graphics/NVIDIA GeForce RTX 3060/144 Hz) FX506HM-HN016T Gaming Laptop  (15.6 Inch, Graphite Black, 2.3 KG"
+    },
+    {
+      "id": 5,
+      "name": "MSI GF65 Thin Core i7 10th Gen",
+      "price": 102000,
+      "stock": 15,
+      "image": "https://rukminim1.flixcart.com/image/416/416/ktszgy80/computer/a/4/a/gf65-thin-10ue-410in-gaming-laptop-msi-original-imag72h6wn7ktgzy.jpeg?q=70",
+      "description": "16 GB/1 TB SSD/Windows 10 Home/6 GB Graphics/NVIDIA GeForce RTX 3060/144 Hz) GF65 Thin 10UE-410IN Gaming Laptop  (15.6 inch, Black, 1.86 kg"
+    },
+    {
+      "id": 6,
+      "name": "Lenovo Legion 5 Core i5 10th Gen",
+      "price": 142000,
+      "stock": 3,
+      "image": "https://rukminim1.flixcart.com/image/416/416/kggviq80/computer/x/6/g/lenovo-original-imafwpajqjvfhrea.jpeg?q=70",
+      "description": "8 GB/512 GB SSD/Windows 10 Home/4 GB Graphics/NVIDIA GeForce GTX 1650/120 Hz) 15IMH05 Gaming Laptop  (15.6 Inch, Phantom Black, 2.3 KG"
+    }
+  ],
+  "cart": [],
+  "register": [
+    {
+      "name": "akash",
+      "email": "akash@skillhub.com",
+      "mobile": "9988774455",
+      "password": "123",
+      "id": 1
+    }
+  ],
+  "login": [
+    {
+      "email": "akash@skillhub.com",
+      "password": "123",
+      "id": 1
+    },
+    {
+      "email": "akash@skillhub.com",
+      "password": "123",
+      "id": 2
+    },
+    {
+      "email": "akash@skillhub.com",
+      "password": "123",
+      "id": 3
+    },
+    {
+      "email": "akash@skillhub.com",
+      "password": "123",
+      "id": 4
+    },
+    {
+      "email": "akash@skillhub.com",
+      "password": "123",
+      "id": 5
+    },
+    {
+      "email": "akash@skillhub.com",
+      "password": "123",
+      "id": 6
+    },
+    {
+      "email": "akash@skillhub.com",
+      "password": "123",
+      "id": 7
+    },
+    {
+      "email": "akash@skillhub.com",
+      "password": "123",
+      "id": 8
+    },
+    {
+      "email": "akash@skillhub.com",
+      "password": "123",
+      "id": 9
+    },
+    {
+      "email": "akash@skillhub.com",
+      "password": "123",
+      "id": 10
+    }
+  ]
+}
